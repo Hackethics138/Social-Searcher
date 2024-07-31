@@ -16,8 +16,8 @@ python3 main.py --u username
 ## Usage
 
 ```python
-python3 dash.py --u username # start OSINT
-python3 dash.py # If you dont want to use parameters like --u . This command Will ask you username and It will start to scan... Good Luck
+python3  main.py --u username # start OSINT
+python3 main.py # If you dont want to use parameters like --u . This command Will ask you username and It will start to scan... Good Luck
 ```
 ## Contact : 
 **Discord : hackethics#1351*
